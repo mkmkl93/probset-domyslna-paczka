@@ -1,7 +1,7 @@
 Plik `README.md` zawiera wszelkie informacje o paczce, w szczególności o jej jakości i źródłach z których paczka korzystała.
 
 ## Stan paczki
-
+test
 | | |
 | --------  | ------------------ |
 | Ogólna jakość paczki | ???     |
